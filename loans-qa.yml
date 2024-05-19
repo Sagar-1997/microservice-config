@@ -1,5 +1,5 @@
 loans:
-  message: "Welcome to Bank cards related Quality Assurance APIs"
+  message: "Welcome to Bank cards related QA APIs"
   contactDetails:
     name: "Ben Smith - QA Lead"
     email: "{cipher}d1a255f54768d2d3eda9bb2122e22475281b27e1d3f2aeb549e612c9fcbda8bc"
