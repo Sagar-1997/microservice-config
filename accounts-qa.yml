@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to Bank accounts related Quality Assurance APIs"
+  message: "Welcome to Bank accounts related QA APIs"
   contactDetails:
     name: "Anna Jhonson - QA Lead"
     email: "anna@gmail.com"
