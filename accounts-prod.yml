@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to Bank accounts related Prod APIs"
+  message: "Welcome to Bank accounts related Production APIs"
   contactDetails:
     name: "Mark Simth - Prod Lead"
     email: "mark@gmail.com"
