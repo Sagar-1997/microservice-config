@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to Bank cards related prod APIs"
+  message: "Welcome to Bank cards related production APIs"
   contactDetails:
     name: "Ben Smith - prod Lead"
     email: "smith@gmail.com"
