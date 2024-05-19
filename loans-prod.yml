@@ -1,5 +1,5 @@
 loans:
-  message: "Welcome to Bank loans related prod APIs"
+  message: "Welcome to Bank loans related production APIs"
   contactDetails:
     name: "Rodrigo Dav - prod Lead"
     email: "rodrigo@gmail.com"
